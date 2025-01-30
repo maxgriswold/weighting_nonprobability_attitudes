@@ -1,3 +1,4 @@
+
 # Propensity Score Weighting to Successfully Adjust a Social Media Nonprobability Sample 
 
 ## Project Description
@@ -8,7 +9,7 @@ This repository collects code for the article "A Demonstration of Propensity Sco
 
 ## Methods & Files
 
-- 01_analysis.R
-- 02_figures.R
+- **01_analysis.R**
+- **02_figures.R**
 
 ## Authors and References
